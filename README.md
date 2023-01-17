@@ -16,3 +16,8 @@ recent commit: False
 blame Rufus: False
 ```
 
+## Requirements:
+Latest version of GitPython will be required to run the program. To install, run:
+```
+pip install GitPython
+```
