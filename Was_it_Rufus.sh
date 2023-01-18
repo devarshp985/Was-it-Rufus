@@ -6,7 +6,7 @@
 if python -c "import git" &> /dev/null; then
     :
 else
-    printf 'The required python packages to run this script are not installed on your system, installing now...\n'
+    printf 'The required python packages to run this script are not installed on your system, installing now...\n\n'
     pip install GitPython
     printf "\nAll required packaged installed. Running script...\n\n"
 fi
