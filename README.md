@@ -14,7 +14,7 @@ python ./Was_it_Rufus.py -p "/Path/to/your/git/repo"
 ```
 
 ## Output:
-If you do not have the required python packages installed, the shell script will automatically install them and run the python. If you are running the script manually using the ```python``` command, you may need to manually install the required python packages, refer to "Requirements" section for instructions.
+If you do not have the required python packages installed, the shell script will automatically install them and run the python program. If you are running the script manually using the ```python``` command, you may need to manually install the required python packages, refer to "Requirements" section for instructions.
 The output of the script should look something like this... 
 ```
 active branch: master
